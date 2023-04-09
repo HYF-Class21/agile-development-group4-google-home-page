@@ -1,26 +1,24 @@
 # Communication
 
-## Group Rules
-
-<!-- any general rules you'd like to set for your group? -->
-
----
-
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day         | How          |                 The topic of discussion                  |
+| ----------- | ------------ | :------------------------------------------------------: |
+| _Monday_    | after 8:30pm | 1. User-persona, contains, backlog. 2. Tasks assignment. |
+| _Tuesday_   | after 8:30pm |      1. Check-in. 2. Development strategy, design.       |
+| _Wednesday_ | after 8:30pm |        1. Check-in. 2. Project-board, development        |
+| _Thursday_  | after 8:30pm |                       1. Check-in.                       |
+| _Friday_    | after 8:30pm |              1. Check-in. 2. Retrospective               |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+_How often we'll get in touch on each channel:_
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: as needed;
+- **Pull Requests**: as needed;
+- **GitHub Discussions**: as needed;
+- **Slack/Discord**: every day;
+- **Video Calls**: 4 times a week;
 
 ---
 
@@ -28,17 +26,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      |    Monday    |   Tuesday    |  Wednesday   |   Thursday   |     Friday     | Saturday |
+| -------- | :----------: | :----------: | :----------: | :----------: | :------------: | :------: |
+| _Neha_   |  after 5pm   |  after 5pm   |  after 4 pm  |  after 5pm   |   after 5pm    | all day  |
+| _Marina_ |  after 8pm   |  after 8pm   | , after 8 pm |  after 8pm   | 9-14 after 8pm | all day  |
+| _Xin_    |   all day    | after 8:30pm | after 8:30pm | after 8:30pm |  after 8:30pm  |
+| _Belkis_ | after 8:30pm | after 8:30pm | after 8:30pm | after 8:30pm |  after 8:30pm  |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Neha: _4-5h_;
+- Marina: _4-5h_;
+- Xin: _5-6h_;
+- Belkis: _2-3h_;
 
 ## Asking for Help
 
